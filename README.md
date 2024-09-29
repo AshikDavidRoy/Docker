@@ -156,7 +156,6 @@ This lesson plan will guide you through Docker step by step, starting with the f
 By completing this plan, you will gain a solid foundation in Docker, ready to use in both development and production environments. For further learning, explore DevOps and Kubernetes roadmaps【5†source】.
 
 --- 
-For more resources and a detailed roadmap, check out [roadmap.sh](https://roadmap.sh).
-
-![Docker Image](python-1.png)
+![Docker Image](docker-1.png)
 ---
+For more resources and a detailed roadmap, check out [roadmap.sh](https://roadmap.sh).
